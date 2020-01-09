@@ -1,0 +1,8 @@
+{
+    "programmer": "USBasp",
+    "board": "MicroCore:avr:attiny13",
+    "output": ".\\bin",
+    "configuration": "clock=12M,BOD=2v7,lto=Os_flto",
+    "sketch": "Software_UART\\Software_UART.ino",
+    "port": "COM7"
+}

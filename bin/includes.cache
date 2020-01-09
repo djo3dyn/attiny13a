@@ -1,0 +1,12 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\JUDIN\\AppData\\Local\\Arduino15\\packages\\MicroCore\\hardware\\avr\\1.0.3\\cores\\microcore"
+  },
+  {
+    "Sourcefile": "d:\\Microcontroller\\Attiny13A\\Arduino\\bin\\sketch\\Software_UART.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

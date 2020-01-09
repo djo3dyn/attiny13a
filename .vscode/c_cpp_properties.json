@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\JUDIN\\AppData\\Local\\Arduino15\\packages\\MicroCore\\hardware\\avr\\1.0.3\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include\\**",
+                "C:\\Users\\JUDIN\\Documents\\Arduino\\libraries\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\JUDIN\\AppData\\Local\\Arduino15\\packages\\MicroCore\\hardware\\avr\\1.0.3\\cores\\microcore\\Arduino.h",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include\\avr\\iotn13a.h"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
